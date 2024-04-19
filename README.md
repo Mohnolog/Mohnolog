@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on avoiding undifined objects
 - 📫 [How to reach me ](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-- 😄 Pronouns: ...
+- 😄 Pronouns: He, him, his
 - ⚡ Fun fact: ...
 
 <!---
